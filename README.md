@@ -66,13 +66,13 @@ Text    6 mins          ░░░░░░░░░░░░░░░░░░�
 
 ## 📊 My Activity on Github
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<details> 
+<!-- <details>  -->
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <a href="https://github.com/anph13"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=anph13&theme=highcontrast"/></a>
   <br/>
 <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
-</details>
+<!-- </details> -->
 
 ## 👨‍💻 Experience
 <p>
