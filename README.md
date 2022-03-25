@@ -74,19 +74,6 @@ Text    6 mins          ░░░░░░░░░░░░░░░░░░�
 <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 </details>
 
-<!-- <details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-   
-<!--START_SECTION:activity-->
-1. Learning Android Development (Kotlin & Flutter) <!-- 1. 🎉 Learning Data Science [#1](https://github.com/phanatagama) in [phanatagama/Data-Science](https://github.com/phanatagama/Data-Science) -->
-2. Learning MERN stack(MongoDB, ExpressJS, ReactJS, NodeJS)
-3. undefined <!--🌱 Learning Cyber Security and Penetration Test-->
-4. undefined
-5. undefined
-<!--END_SECTION:activity-->
-</details> -->
-
 ## 👨‍💻 Experience
 <p>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
@@ -136,10 +123,48 @@ Text    6 mins          ░░░░░░░░░░░░░░░░░░�
 <!--**Project**-->
  
 ![Phanatagama](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+
+## <p align="center">You can reach me at 🌹</p>
+
+<p align="center">
+  <a href="https://www.facebook.com/myyou.k3/">
+    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="30" width="30">
+  </a>
+	
+  <a href="https://github.com/anph13">
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="30" width="30">
+  </a>
+  
+<!--   <a href="https://dev.to/anph13">
+    <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="DevTo" height="30" width="30">
+  </a> -->
+	
+<!--   <a href="https://www.linkedin.com/in/anph13/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" height="30" width="30">
+  </a> -->
+  
+  <a href="mailto:hahoangyou@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google" height="30" width="30">
+  </a>
+	
+  <a href="https://www.instagram.com/meyou.k3/">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="30" width="30">
+  </a>
+  
+<!--   <a href="https://www.tiktok.com/@ngoctien_tnt/">
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tiktok-icon.svg" alt="TikTok" height="30" width="30">
+  </a> -->
+  
+  <a href="https://www.youtube.com/c/UCy0Oo_5y2WxohUzzpItCfIw">
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" height="30" width="30">
+  </a>
+</p>
+
+## <p align="center">Visitor's count :eyes:</p>
+<p align="center"><img src="https://profile-counter.glitch.me/{anph13}/count.svg" alt="anph13 :: Visitor's Count" /></p>
+
 ### (つ ͡° ͜ʖ ͡°)つ (つ ͡° ͜ʖ ͡°)つ (つ ͡° ͜ʖ ͡°)つ (つ ͡° ͜ʖ ͡°)つ (つ ͡° ͜ʖ ͡°)つ
 ![Anph13 Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=anph13)
 ### (つ ͡° ͜ʖ ͡°)つ (つ ͡° ͜ʖ ͡°)つ (つ ͡° ͜ʖ ͡°)つ (つ ͡° ͜ʖ ͡°)つ (つ ͡° ͜ʖ ͡°)つ
-
-
 
 
